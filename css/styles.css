@@ -25,8 +25,18 @@ body {
   list-style: none;
 }
 
+.list-one {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+
+}
+
 .header-logo-accent {
 	color: #2e2f42;
+	font-weight: 700;
+	letter-spacing: 0.02em;
 }
 
 .header-menu-item {
@@ -45,7 +55,8 @@ body {
 }
 
 .header-address {
-  font-style: normal;
+	font-style: normal;
+
 }
 
 .header-address-item {
@@ -66,6 +77,7 @@ button {
 	cursor: pointer;
 	color: #4d5ae5;
 	background-color: #e7e9fc;
+	letter-spacing: 0.04em;
 }
 
 button:hover,
@@ -133,7 +145,7 @@ footer {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
 }
@@ -145,7 +157,7 @@ footer {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.2em;
+	letter-spacing: 0.04em;
   text-align: center;
 }
 
