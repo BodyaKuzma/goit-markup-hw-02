@@ -72,6 +72,9 @@ body {
 .header-address-item:focus {
   color: #404bbf;
 }
+.section-two {
+	letter-spacing: 0.02em;
+}
 
 button {
 	cursor: pointer;
