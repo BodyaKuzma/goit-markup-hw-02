@@ -12,7 +12,7 @@ body {
 
 .link {
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+	font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -119,17 +119,22 @@ footer {
 	background-color: var(--primary-color);
 }
 
+.footer {
+	
+}
+
 .footer-logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+	font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.16em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: var(--primary-color-logo);
 }
 
 .footer-logo-accent {
 	color: #f4f4fd;
+
 }
 
 .footer-paragraph {
