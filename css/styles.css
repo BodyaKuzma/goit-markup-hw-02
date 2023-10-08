@@ -1,15 +1,11 @@
-:root {
-	--primary-color-logo: #4d5ae5;
-	--primary-color: #2e2f42;
-	--primary-backgrond-color: #ffffff;
-}
-
-body {
-	font-family: 'Roboto', sans-serif;
+.body {
+	font-family: Roboto, sans-serif;
+	background-color: #ffffff;
 	color: #434455;
-	background-color: var(--primary-backgrond-color);
 }
-
+.header-navigation {
+	display: inline-flex;
+}
 .header-box {
 		display: flex;
 		align-items: center;
@@ -17,9 +13,7 @@ body {
 		border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
 		background: var(--WHITE, #fff);
 }
-.header-navigation {
-	display: inline-flex;
-}
+
 .header-logo {
 			display: inline-block;
 			color: #4d5ae5;
