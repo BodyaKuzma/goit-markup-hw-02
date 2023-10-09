@@ -109,11 +109,11 @@ a {
 }
 
 a:focus {
-	color: var(--color-ocean);
+	color: #404bbf;
 }
 
 a:hover {
-	color: var(--color-ocean);
+	color: #404bbf;
 }
 
 .content-head {
